@@ -1,0 +1,611 @@
+ons to remove a qualified City Manager. #CastleHills #TxLege #FreedomOfSpeech https://t.co/nQLK7mM2bl', 'tweetLink': 'http://twitter.com/kurtmayesq/status/1147844857488130048'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': '“While the funding HB 3 provides for full-day pre-K is a step in the right direction, there is much more work to be done.” Great oped by \u2066@NelsonBaray\u2069 on the need to ensure more TX kids benefit from high quality #prek. #txlege #txed  https://t.co/9kKuK38bOq', 'tweetLink': 'http://twitter.com/Steph_Rubin/status/1147845560776499200'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/elissayancey/status/1147845984732549120'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'Join me in honoring all of our brave law enforcement officers &amp; first responders who sacrifice so much to protect our communities. TX stands with our law enforcement on this #FallenLawEnforcementOfficerDay &amp; everyday. #BacktheBlue #txlege https://t.co/kG0lDuHrxv', 'tweetLink': 'http://twitter.com/SenatorNichols/status/1147847743618109440'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/okhobieman2002/status/1147850258464038913'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/SarahMeinzer/status/1147852652673425408'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'RT @amy_bresnen: This is a first tent sighting on the trail by the railroad tracks on top of Lamar. Austinites, please take pics of tents &amp; their location and use the #austinhomeless so we can better understand the problem &amp; the new policy. \u2066@austintexasgov\u2069 \u2066@GregCasar\u2069 #txlege https://t.co/rwXjQgTWwx', 'tweetLink': 'http://twitter.com/museofhistory/status/1147852994538561536'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'RT @amy_bresnen: Super thanks to the @downtownatx for power cleaning @RepublicSqATX . We will continue to watch over this PUBLIC park to ensure we do not become Seattle. #txlege #austinhomeless https://t.co/uZD5MOgsPu', 'tweetLink': 'http://twitter.com/museofhistory/status/1147853157621469184'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:44 AM  JSON is: {'textField': 'From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/EmpowerTexans/status/1147854028426158081'}
+Jul 7 09:12:44 AM  PREDICTION ^^^ is: False
+Jul 7 09:12:45 AM  INFO: ('10.104.13.64', 45962) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:20:37 AM  INFO: ('10.104.6.251', 43810) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:28:21 AM  INFO: ('10.104.13.64', 56336) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:36:35 AM  INFO: ('10.104.13.64', 33740) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:44:15 AM  INFO: ('10.104.2.212', 44022) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:44:17 AM  INFO: ('10.104.13.64', 39228) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:44:18 AM  INFO: ('10.104.6.251', 53972) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:11 AM  INFO: ('10.104.13.64', 44616) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:13 AM  INFO: ('10.104.6.251', 57500) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:15 AM  INFO: ('10.104.13.64', 44616) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:16 AM  INFO: ('10.104.6.251', 57500) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:18 AM  INFO: ('10.104.2.212', 46464) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:20 AM  INFO: ('10.104.2.212', 46464) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:22 AM  INFO: ('10.104.13.64', 44722) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 09:52:23 AM  INFO: ('10.104.13.64', 44722) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:01:11 AM  INFO: ('10.104.13.64', 50886) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:01:13 AM  INFO: ('10.104.2.212', 49032) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:08:28 AM  INFO: ('10.104.13.64', 55692) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:16:16 AM  INFO: ('10.104.6.251', 39286) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:16:18 AM  INFO: ('10.104.6.251', 39286) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:24:23 AM  INFO: ('10.104.13.64', 38276) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:24:25 AM  INFO: ('10.104.6.251', 42904) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @EmpowerTexans: From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/ctztforester/status/1147855136527716354'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @EmpowerTexans: From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/rkecseg84/status/1147856523625938951'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @DonnaHowardTX: “we often refer to ‘heartbeat’ early in pregnancy b/c familiar language to patients. However what we see w/ ultrasound at 6 wks is not actually a heart yet.  Using ‘heartbeat’ to restrict abortion is done to drive an emotional response but it is not medically accurate.” #txlege https://t.co/bT2Cin5Zfk', 'tweetLink': 'http://twitter.com/j_egler/status/1147857972355313664'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': "RT @DiegoBernalTX: #TXLege Reps: Why did it take us WEEKS to get in?\n\nBorder Patrol: We denied you twice. Congress gives us $$/resources. You don't. If @HispanicCaucus hadn't insisted we'd say no again.\n\nReps: ...\n\nLatino Pastors, the NEXT DAY: Just toured the station! It's like camp!\n\nReps: ...", 'tweetLink': 'http://twitter.com/kwhyer/status/1147859995616272385'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @EmpowerTexans: From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/MohamedElibiary/status/1147862907755147266'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': '🚨If you are not already following @RootEdSA, please do! RootEd was created by a group of parents who saw the need for neighborhood schools to tell their stories, even without big 💵 for marketing. #StrongPublicSchools #PublicEducation #TxEd #txlege #Education #SanAntonio #Texas https://t.co/AYJTz6W4eP', 'tweetLink': 'http://twitter.com/KellyRasti/status/1147863395380715520'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': "RT @TexasTribune: A new state law legalized hemp and hemp-derived products, like CBD oil. \n\nThe unintended side effect: it's harder for law enforcement to tell if a substance is marijuana or hemp, causing prosecutors to drop hundreds of low-level marijuana charges. #txlege https://t.co/dmSBYpuPF6", 'tweetLink': 'http://twitter.com/IndianRiverAss1/status/1147863668429938688'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @SenatorNichols: Join me in honoring all of our brave law enforcement officers &amp; first responders who sacrifice so much to protect our communities. TX stands with our law enforcement on this #FallenLawEnforcementOfficerDay &amp; everyday. #BacktheBlue #txlege https://t.co/kG0lDuHrxv', 'tweetLink': 'http://twitter.com/captainrt52/status/1147863966951137281'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': '🚨If you are not already following @RootEdSA, please do! RootEd was created by a group of parents who saw the need for neighborhood schools to tell their stories. #StrongPublicSchools #PublicEducation #TxEd #txlege #Education #SanAntonio #Texas https://t.co/sJLxh4os74', 'tweetLink': 'http://twitter.com/NISDPatNeff/status/1147863997045231616'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @MeadowsC4Water: In the latest issue of Texas+Water, we talked with @RepLyleLarson and @electcharles to get their perspective on water-related legislation and the close of the 86th Texas Legislative Session. Get the full scoop: https://t.co/ZipdOokASM. #WaterWednesday #txlege #txwater https://t.co/ST7cKN2HA9', 'tweetLink': 'http://twitter.com/StacyBarna/status/1147864341150126081'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': '“I ask that all Texans take a moment to remember these fallen heroes and to pray for their families and communities. This day is a solemn reminder that our law enforcement officers put their lives on the line every day so that we may be safe.“ - @GregAbbott_TX #txlege https://t.co/oLcGPfil8r', 'tweetLink': 'http://twitter.com/VCSOTexas/status/1147865034959335424'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @MayorJRTrevino: Step 1. Suppress citizens right to speak. Step 2. Make a defamatory allegations to remove a qualified City Manager. #CastleHills #TxLege #FreedomOfSpeech https://t.co/nQLK7mM2bl', 'tweetLink': 'http://twitter.com/VIVApolitics/status/1147865124478341120'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @EmpowerTexans: From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/DugBegley/status/1147865570823548929'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147865699144130560'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @VCSOTexas: “I ask that all Texans take a moment to remember these fallen heroes and to pray for their families and communities. This day is a solemn reminder that our law enforcement officers put their lives on the line every day so that we may be safe.“ - @GregAbbott_TX #txlege https://t.co/oLcGPfil8r', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147865745847738374'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'Thanks @Steph_Rubin glad to be included in this discussion. I had to give  my friend and colleague @FourPriceTX credit for leading on this issue at #txlege #mentalhealth #workinprogress https://t.co/eSjcEo7HGK', 'tweetLink': 'http://twitter.com/CeliaIsrael/status/1147867802491076609'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @CeliaIsrael: Thanks @Steph_Rubin glad to be included in this discussion. I had to give  my friend and colleague @FourPriceTX credit for leading on this issue at #txlege #mentalhealth #workinprogress https://t.co/eSjcEo7HGK', 'tweetLink': 'http://twitter.com/_RebeccaMarques/status/1147867985618657281'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @amy_bresnen: This is a first tent sighting on the trail by the railroad tracks on top of Lamar. Austinites, please take pics of tents &amp; their location and use the #austinhomeless so we can better understand the problem &amp; the new policy. \u2066@austintexasgov\u2069 \u2066@GregCasar\u2069 #txlege https://t.co/rwXjQgTWwx', 'tweetLink': 'http://twitter.com/ozmox/status/1147869788502396929'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'Another TEXAS #Veteran running for the #Txlege. We need more veterans in office, particularly with OIF/OEF Service. https://t.co/1rF4a06rGG', 'tweetLink': 'http://twitter.com/mattmfoster/status/1147870169286492161'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': '@texasgov #TxLege please address!\nMy daughter and my mom both had to go in person this year. Daughter waited five hours; mom waited 3.5 hours.\nThis is so unacceptable.\nOutsource it if necessary, but get more people in. \nWe get passports more efficiently than this.', 'tweetLink': 'http://twitter.com/sgoth2/status/1147870685756305408'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/haysGOP225/status/1147872017456254977'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:25 AM  JSON is: {'textField': 'RT @BradBuckleyDVM: Enjoyed seeing the newly restored Keystone Star Hotel in \u2066@CityofLampasas\u2069. Thank you to Andy Fish for your passion and investment in Lampasas.  This is must see in #HD54.\n#txlege #keystonestarhotel https://t.co/ALsTcpOaUp', 'tweetLink': 'http://twitter.com/haysGOP225/status/1147872171680817153'}
+Jul 7 10:24:25 AM  PREDICTION ^^^ is: False
+Jul 7 10:24:26 AM  INFO: ('10.104.13.64', 38276) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:31 AM  INFO: ('10.104.6.251', 46464) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:33 AM  INFO: ('10.104.13.64', 44190) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:34 AM  INFO: ('10.104.13.64', 44190) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:36 AM  INFO: ('10.104.13.64', 44190) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:37 AM  INFO: ('10.104.13.64', 44190) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:32:39 AM  INFO: ('10.104.13.64', 44190) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:40:25 AM  INFO: ('10.104.13.64', 49614) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:40:27 AM  INFO: ('10.104.13.64', 49614) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:40:29 AM  INFO: ('10.104.2.212', 60242) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:44:26 AM  INFO: ('10.104.6.251', 51810) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:52:50 AM  INFO: ('10.104.13.64', 58318) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:56:30 AM  INFO: ('10.104.13.64', 60826) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:58:13 AM  INFO: ('10.104.13.64', 33778) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 10:59:17 AM  INFO: ('10.104.2.212', 37810) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:07:37 AM  INFO: ('10.104.6.251', 33814) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:08:37 AM  INFO: ('10.104.13.64', 40714) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:09:13 AM  INFO: ('10.104.13.64', 41084) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:10:35 AM  INFO: ('10.104.6.251', 35072) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:10:37 AM  INFO: ('10.104.13.64', 42054) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:15:53 AM  INFO: ('10.104.2.212', 42468) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:19:33 AM  INFO: ('10.104.13.64', 48128) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:21:34 AM  INFO: ('10.104.13.64', 49422) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/VTGuyinTx/status/1147873030183510017'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "A 'dump-and-run' e-scooter culture creates frightening hazards for the disabled https://t.co/J83Jhr5Vgh via @expressnews #txlege", 'tweetLink': 'http://twitter.com/james4texas/status/1147874385186951168'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'Remembering those law enforcement professionals who gave their lives to protect us. #HD71 will not forget! Honor to the officers and their families on Fallen Law Enforcement Officer Day.  #BackTheBlue  #txlege #BigCountry https://t.co/AJN8lvEMXM', 'tweetLink': 'http://twitter.com/RepStanLambert/status/1147874736476737536'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @james4texas: A 'dump-and-run' e-scooter culture creates frightening hazards for the disabled https://t.co/J83Jhr5Vgh via @expressnews #txlege", 'tweetLink': 'http://twitter.com/ProfJonTaylor/status/1147874742919188480'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @Steph_Rubin: “While the funding HB 3 provides for full-day pre-K is a step in the right direction, there is much more work to be done.” Great oped by \u2066@NelsonBaray\u2069 on the need to ensure more TX kids benefit from high quality #prek. #txlege #txed  https://t.co/9kKuK38bOq', 'tweetLink': 'http://twitter.com/catmchs/status/1147874836884217856'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @Steph_Rubin: “While the funding HB 3 provides for full-day pre-K is a step in the right direction, there is much more work to be done.” Great oped by \u2066@NelsonBaray\u2069 on the need to ensure more TX kids benefit from high quality #prek. #txlege #txed  https://t.co/9kKuK38bOq', 'tweetLink': 'http://twitter.com/Garciaparasoco/status/1147875107437731840'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @RepStanLambert: Remembering those law enforcement professionals who gave their lives to protect us. #HD71 will not forget! Honor to the officers and their families on Fallen Law Enforcement Officer Day.  #BackTheBlue  #txlege #BigCountry https://t.co/AJN8lvEMXM', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147875281778200576'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @jettica65: Bryan Stevenson says you can hear the suffering in our prisons.  I agree!  But we can also feel the #Humanity. I call on the #txlege to #VisitAPrison and look deep within themselves and find a way to do better! @KarineOmry @eji_org @FAMMFoundation @Michael35490216 @helenprejean https://t.co/MbOwQcX1u5', 'tweetLink': 'http://twitter.com/jettica65/status/1147875990153990144'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @jettica65: Bryan Stevenson says you can hear the suffering in our prisons.  I agree!  But we can also feel the #Humanity. I call on the #txlege to #VisitAPrison and look deep within themselves and find a way to do better! @KarineOmry @eji_org @FAMMFoundation @Michael35490216 @helenprejean https://t.co/MbOwQcX1u5', 'tweetLink': 'http://twitter.com/TheCollectiveD1/status/1147876457047179265'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @amy_bresnen: This is a first tent sighting on the trail by the railroad tracks on top of Lamar. Austinites, please take pics of tents &amp; their location and use the #austinhomeless so we can better understand the problem &amp; the new policy. \u2066@austintexasgov\u2069 \u2066@GregCasar\u2069 #txlege https://t.co/rwXjQgTWwx', 'tweetLink': 'http://twitter.com/mew729/status/1147876615847739392'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @TomOliverson: Many brave men &amp; women have made the ultimate sacrifice for the safety of our communities. Please join me in honoring all fallen law enforcement officers today. #BacktheBlue #txlege https://t.co/2ZhaLkadIL', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147878381675012096'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': '@Farris_actual @AdamLoewyATX They make the Legislature look transparent. Many times committee chairs will opt to hear the most controversial bills early in the committee hearing to ensure the most public participation possible. #txlege', 'tweetLink': 'http://twitter.com/amy_bresnen/status/1147880622637101056'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @DiegoBernalTX: #TXLege Reps: Why did it take us WEEKS to get in?\n\nBorder Patrol: We denied you twice. Congress gives us $$/resources. You don't. If @HispanicCaucus hadn't insisted we'd say no again.\n\nReps: ...\n\nLatino Pastors, the NEXT DAY: Just toured the station! It's like camp!\n\nReps: ...", 'tweetLink': 'http://twitter.com/saprogressive/status/1147881768806211584'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/JAaronWaggoner/status/1147882330889043968'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'BREAKING: @GOP Senator, @JohnCornyn, takes the word of #Russian Oligarch over US Intelligence\n\nVote @mjhegar for Senator &amp; kick #Traitor #TeamCornyn out of DC\n\n#KickOutCornyn #SundayMorning #TXSen #TXLege #CNNSOTU #AMJoy #TheResistance #TheGreatAwakening #MAGA https://t.co/M4sqL7uThu', 'tweetLink': 'http://twitter.com/lori_go/status/1147882680819654662'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': '@jayphoward @TexasObserver My daughter was informed after IV started and on gurney. Most pregnant women aren’t anticipating making MD choice based on which hospital they use and what their miscarriage policies are. #txlege law still being challenged &amp; not in effect.', 'tweetLink': 'http://twitter.com/DonnaHowardTX/status/1147884610891735040'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': '🚨 REMINDER: Today at 10:30 AM you can catch me on Houston Newsmakers discussing this Legislative Session. #txlege #kprc2 #newsmakers https://t.co/IBnUs31W09', 'tweetLink': 'http://twitter.com/Jon_RosenthalTX/status/1147884955340554240'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @AdryanaAldeen: Esta mañaña en  @UnivisionDFW  @Univision23DFW  la #republicana @AdryanaAldeen y  el #democrata @RepRamonRomero en #AlPuntoDFW con @AnaMaVargasTV  hablaran sobre #TxLege  sesión legislativa en #Texas,  #mueller https://t.co/g4Z8Ff74BF', 'tweetLink': 'http://twitter.com/MGTRRZ/status/1147885117836288000'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @BudKennedy: Don't sell Chris Bell short against @JohnCornyn. He held @SecretaryPerry to 39%, no small feat. Plus, he came away with $2M #txlege https://t.co/eGQyZX8d1i", 'tweetLink': 'http://twitter.com/tcottagebakery/status/1147885304549744640'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: True
+Jul 7 11:27:32 AM  JSON is: {'textField': 'RT @DonnaHowardTX: Provides key piece toward integration of Innovation Corridor—UT, Med School, Capitol, Waller Creek, and Downtown. Working w/ City on transit solutions. #txlege https://t.co/mmW2bTaTEr', 'tweetLink': 'http://twitter.com/tcottagebakery/status/1147885393406115840'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @BudKennedy: Don't sell Chris Bell short against @JohnCornyn. He held @SecretaryPerry to 39%, no small feat. Plus, he came away with $2M #txlege https://t.co/eGQyZX8d1i", 'tweetLink': 'http://twitter.com/drdrbrockman/status/1147886291557736453'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: True
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @DonnaHowardTX: “being separated from a parent regardless of the situation is itself an extreme trauma. That's why current policy is unthinkable. We are witnessing the govt, rather than protecting children from harm, actually inflicting trauma upon children as an instrument of policy.” #txlege https://t.co/DRxhHY84Za", 'tweetLink': 'http://twitter.com/11dawny11/status/1147887498112188417'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:32 AM  JSON is: {'textField': "RT @LisaForTXHD3: I'm a member of @TeamBlueTexas. If you're thinking of running for #txlege in a red district, know that we are here to help you. We need to contest every race, every election. You can be a part of the inevitable change.  https://t.co/OLAHjdETYO", 'tweetLink': 'http://twitter.com/VioletThunk/status/1147888097771831296'}
+Jul 7 11:27:32 AM  PREDICTION ^^^ is: False
+Jul 7 11:27:33 AM  INFO: ('10.104.6.251', 42754) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:33:19 AM  INFO: ('10.104.2.212', 47608) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:35:38 AM  INFO: ('10.104.6.251', 46496) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:37:16 AM  INFO: ('10.104.6.251', 47226) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:43:19 AM  INFO: ('10.104.13.64', 36594) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:52:30 AM  INFO: ('10.104.6.251', 54156) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:52:32 AM  INFO: ('10.104.2.212', 53478) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:55:21 AM  INFO: ('10.104.2.212', 54320) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:58:29 AM  INFO: ('10.104.13.64', 47182) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:58:31 AM  INFO: ('10.104.6.251', 57068) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 11:58:33 AM  INFO: ('10.104.6.251', 57068) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:01:57 PM  INFO: ('10.104.6.251', 58756) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:01:59 PM  INFO: ('10.104.13.64', 49810) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:02:01 PM  INFO: ('10.104.2.212', 56532) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:04:38 PM  INFO: ('10.104.2.212', 57252) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:04:39 PM  INFO: ('10.104.6.251', 59908) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:07:14 PM  INFO: ('10.104.13.64', 53290) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:10:32 PM  INFO: ('10.104.2.212', 58866) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:13:34 PM  INFO: ('10.104.13.64', 57796) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:16:54 PM  INFO: ('10.104.13.64', 60076) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:16:56 PM  INFO: ('10.104.13.64', 60076) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:19:18 PM  INFO: ('10.104.2.212', 33206) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:22:26 PM  INFO: ('10.104.13.64', 35832) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:34:04 PM  INFO: ('10.104.6.251', 45160) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 12:48:18 PM  JSON is: {'textField': 'This is a must read for anyone following Texas demographics and for anyone curious about what the future of Texas will look like. #TxLege https://t.co/Nrtn8C3QZp', 'tweetLink': 'http://twitter.com/JasonVillalba/status/1147889705163337728'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @Steph_Rubin: “While the funding HB 3 provides for full-day pre-K is a step in the right direction, there is much more work to be done.” Great oped by \u2066@NelsonBaray\u2069 on the need to ensure more TX kids benefit from high quality #prek. #txlege #txed  https://t.co/9kKuK38bOq', 'tweetLink': 'http://twitter.com/ssteven2/status/1147891210427621376'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: .@kdhnews: "@CityofKilleen is moving ahead with plans to implement impact fees..." Another city creating/raising fees in a post-#SB2 world. Further evidence that a comprehensive restraint is needed. #txlege #tcot @TPPF https://t.co/u7gRZ5qA1S', 'tweetLink': 'http://twitter.com/RealBPhil/status/1147891700897144832'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': '@JohnCornyn #txlege Cornyn is choosing Russian Oligarchs over our own law enforcement agencies. I think we have a traitor in office. Ted Cruz too.', 'tweetLink': 'http://twitter.com/EileenForBlue/status/1147891885362569216'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'Thank you Speaker @RepDennisBonnen! I appreciate your leadership and friendship. #TXLege https://t.co/2zO9f4lZu6', 'tweetLink': 'http://twitter.com/CortezPhilip/status/1147893601453707264'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/texasinsider/status/1147895392534769664'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @EileenForBlue: @JohnCornyn #txlege Cornyn is choosing Russian Oligarchs over our own law enforcement agencies. I think we have a traitor in office. Ted Cruz too.', 'tweetLink': 'http://twitter.com/daveguy7/status/1147895970295926784'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/BRdonalson/status/1147896176219447297'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/zzipdog/status/1147897021300428800'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @jettica65: Bryan Stevenson says you can hear the suffering in our prisons.  I agree!  But we can also feel the #Humanity. I call on the #txlege to #VisitAPrison and look deep within themselves and find a way to do better! @KarineOmry @eji_org @FAMMFoundation @Michael35490216 @helenprejean https://t.co/MbOwQcX1u5', 'tweetLink': 'http://twitter.com/TrialDoc/status/1147897058852032515'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': "@EileenForBlue @JohnCornyn UN. FRIGGIN. BELIEVABLE.\n\nCorrupt Criminal Cornyn is even worse than I'd even imagined...and that's saying a LOT. This needs to be put up on billboards all across Texas, his defending the Russians that attacked our democracy.\n#Traitor #txlege", 'tweetLink': 'http://twitter.com/Eight12GaRounds/status/1147897066477277185'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @emmaplatoff: Maverick of the Senate? How a mouthy moderate from Amarillo faced down an apparent grudge from the boss — and got his bills passed anyway https://t.co/nRNPUyJo23 #txlege', 'tweetLink': 'http://twitter.com/v2aggie2/status/1147897733556125697'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/pp_prescott/status/1147898050972672000'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/theonlyrealbari/status/1147898401260036096'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/scottbraddock/status/1147898842278440960'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/v2aggie2/status/1147899046088073216'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': '@jihanthompson @ralphblu Good morning! I wanted to share the exciting news of the great work #TXLEGE is doing in TX since you allowed me to participate in the Sept 2010 issue of @marieclaire @marieclaireuk  @MarieClaireInt entitled "STILL WAITING AFTER ALL THESE YEARS" PG.166', 'tweetLink': 'http://twitter.com/laviniamasters/status/1147899384354549760'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/markwayne143/status/1147899934592688130'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/area_houston/status/1147901250681409537'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/politicscutie/status/1147901568580313088'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': "#txlege Wrapup #25: In TX, it is legal to attempt to change the sexual orientation or gender identity/expression of a child. Conversion therapy is inhumane, and I'm proud to be a joint author of Rep. @CeliaIsrael's HB 517 to ban this practice. #140in40 https://t.co/hOeDJin0Zd", 'tweetLink': 'http://twitter.com/RepMaryGonzalez/status/1147901998148280320'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/rkriza86/status/1147902657253842945'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/GeneforTexas/status/1147903635877220352'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:18 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/genvc/status/1147906468638875648'}
+Jul 7 12:48:18 PM  PREDICTION ^^^ is: False
+Jul 7 12:48:19 PM  INFO: ('10.104.2.212', 42228) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:14 PM  INFO: ('10.104.6.251', 58814) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:16 PM  INFO: ('10.104.2.212', 47048) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:18 PM  INFO: ('10.104.13.64', 36462) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:20 PM  INFO: ('10.104.6.251', 58814) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:23 PM  INFO: ('10.104.2.212', 47048) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:04:25 PM  INFO: ('10.104.6.251', 58814) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:41 PM  INFO: ('10.104.6.251', 34306) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:42 PM  INFO: ('10.104.6.251', 34306) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:43 PM  INFO: ('10.104.13.64', 42068) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:45 PM  INFO: ('10.104.13.64', 42068) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:46 PM  INFO: ('10.104.6.251', 34306) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:12:48 PM  INFO: ('10.104.6.251', 34306) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:20:50 PM  INFO: ('10.104.6.251', 37890) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:20:52 PM  INFO: ('10.104.6.251', 37890) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:28:20 PM  INFO: ('10.104.13.64', 52958) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:28:22 PM  INFO: ('10.104.2.212', 54314) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:28:23 PM  INFO: ('10.104.13.64', 52958) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:36:11 PM  INFO: ('10.104.6.251', 44738) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:44:14 PM  INFO: ('10.104.13.64', 36020) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:44:15 PM  INFO: ('10.104.2.212', 59100) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:52:39 PM  INFO: ('10.104.13.64', 41664) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:52:40 PM  INFO: ('10.104.13.64', 41664) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:52:42 PM  INFO: ('10.104.6.251', 51898) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 01:52:44 PM  INFO: ('10.104.2.212', 33298) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:01:26 PM  INFO: ('10.104.2.212', 35550) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @Eight12GaRounds: @EileenForBlue @JohnCornyn UN. FRIGGIN. BELIEVABLE.\n\nCorrupt Criminal Cornyn is even worse than I'd even imagined...and that's saying a LOT. This needs to be put up on billboards all across Texas, his defending the Russians that attacked our democracy.\n#Traitor #txlege", 'tweetLink': 'http://twitter.com/EileenForBlue/status/1147909847196819456'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @VCSOTexas: “I ask that all Texans take a moment to remember these fallen heroes and to pray for their families and communities. This day is a solemn reminder that our law enforcement officers put their lives on the line every day so that we may be safe.“ - @GregAbbott_TX #txlege https://t.co/oLcGPfil8r', 'tweetLink': 'http://twitter.com/Ward_Wyatt/status/1147910853171326976'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'July 7th marks the three-year anniversary of the attack in Dallas where we lost five of our officers and serves as a symbol of remembrance for all Texas officers who have fallen in the line of duty. Texas thanks you. #backtheblue #txlege #fallenlawenforcementday https://t.co/vwZzOrlxAX', 'tweetLink': 'http://twitter.com/AngieChenButton/status/1147911469431951361'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @JulieChang1: Travis County GOP chairman Robert Morrow's stance on Trump... #txlege https://t.co/UChNJ0zVcj", 'tweetLink': 'http://twitter.com/rweitzel0913/status/1147912050464776194'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/ProgressTX/status/1147913919618408448'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @KonniBurton: BREAKING: @SenatorBobHall said the ruling [against the Pardo family] was “the most egregious display of injustice” that he has seen. Hall said CPS had “zero evidence” in their case against the family. #txlege https://t.co/p26EE0poTx', 'tweetLink': 'http://twitter.com/misslexi9162/status/1147914031958777856'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/Ssragona/status/1147914115157020673'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'Give the @USWNT their due! Congrats ladies. #USWMT #txlege https://t.co/gODv8ql9Cw', 'tweetLink': 'http://twitter.com/RepWalle/status/1147914552677412865'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @RepWalle: Give the @USWNT their due! Congrats ladies. #USWMT #txlege https://t.co/gODv8ql9Cw', 'tweetLink': 'http://twitter.com/psi253/status/1147914601398448128'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/deaniemills/status/1147914608977616896'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @jettica65: Bryan Stevenson says you can hear the suffering in our prisons.  I agree!  But we can also feel the #Humanity. I call on the #txlege to #VisitAPrison and look deep within themselves and find a way to do better! @KarineOmry @eji_org @FAMMFoundation @Michael35490216 @helenprejean https://t.co/MbOwQcX1u5', 'tweetLink': 'http://twitter.com/CarolinaE1962/status/1147914933956489219'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/KayMaybel007/status/1147915555619450880'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @SenJaneNelson: The Legislature passed new restrictions on illegal telemarketing calls, and @TXAG - with the @FTC - announced a major crackdown - an important initiative to protect the privacy of Texans. https://t.co/Jj2Yy6K08h #txlege', 'tweetLink': 'http://twitter.com/CaramoneCaram/status/1147915667972038662'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @SenatorNichols: Join me in honoring all of our brave law enforcement officers &amp; first responders who sacrifice so much to protect our communities. TX stands with our law enforcement on this #FallenLawEnforcementOfficerDay &amp; everyday. #BacktheBlue #txlege https://t.co/kG0lDuHrxv', 'tweetLink': 'http://twitter.com/pc17d/status/1147916865198534656'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'Some people love women and this Nike ad, others want to boycott the shoes 🤷\u200d♂️🇺🇸 https://t.co/qGv2n2YGQ7 #txlege #USWMNT https://t.co/K6KO2fXX8Z', 'tweetLink': 'http://twitter.com/PhillipMartin/status/1147917130446397440'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @pastors4txkids: "God’s vision for education is a beloved community of teachers and students, not a testing factory.  We don’t fund our schools because they hit certain test scores. We fund our schools because it’s a Gospel mandate &amp; a moral imperative." #txed #txlege #HB3 https://t.co/KOoI4kkMmY', 'tweetLink': 'http://twitter.com/browardbats/status/1147918763121106944'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/Raclbaby2000/status/1147918912169873409'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/BootsCastle/status/1147919198615724033'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'Non-citizens votes = real meddling https://t.co/IVrgIiC4kU #txlege', 'tweetLink': 'http://twitter.com/DirectActionTX/status/1147921698932580354'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @SenatorNichols: Join me in honoring all of our brave law enforcement officers &amp; first responders who sacrifice so much to protect our communities. TX stands with our law enforcement on this #FallenLawEnforcementOfficerDay &amp; everyday. #BacktheBlue #txlege https://t.co/kG0lDuHrxv', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147923177881972750'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @FourPriceTX: My prayers are with the families&amp;friends of our fallen Texas law enforcement officers. We will always remember the ultimate sacrifice of these heroes. Law enforcement is that thin blue line between a civilized society and anarchy. God bless you all. #BacktheBlue #txlege https://t.co/USaGjGKMdb', 'tweetLink': 'http://twitter.com/MarcALevin/status/1147923536817917952'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @james4texas: A 'dump-and-run' e-scooter culture creates frightening hazards for the disabled https://t.co/J83Jhr5Vgh via @expressnews #txlege", 'tweetLink': 'http://twitter.com/amy_bresnen/status/1147924235127611392'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @GregAbbott_TX: I just signed a law allowing “Beer-to-Go” in Texas. \n\nIt allows you to take home beer from Craft Breweries in Texas. \n\nEnjoy responsibly. \n\nThanks #txlege \n#beer https://t.co/qDRkZgS9m6', 'tweetLink': 'http://twitter.com/KarenVaughan50/status/1147925809601978370'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'Does not say outright whether he opposes citizenship q but — seems like it? In any case, another break with @realDonaldTrump #partyofone #tx2020 #txlege https://t.co/LxWYBBZ2iq', 'tweetLink': 'http://twitter.com/evanasmith/status/1147925999490875392'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/LyndsiLambert/status/1147926139677159424'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:26 PM  JSON is: {'textField': 'RT @evanasmith: Does not say outright whether he opposes citizenship q but — seems like it? In any case, another break with @realDonaldTrump #partyofone #tx2020 #txlege https://t.co/LxWYBBZ2iq', 'tweetLink': 'http://twitter.com/shmody/status/1147927675362775041'}
+Jul 7 02:01:26 PM  PREDICTION ^^^ is: False
+Jul 7 02:01:27 PM  INFO: ('10.104.2.212', 35550) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:08:23 PM  INFO: ('10.104.6.251', 58802) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:08:25 PM  INFO: ('10.104.13.64', 52276) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:08:26 PM  INFO: ('10.104.2.212', 37326) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:05 PM  INFO: ('10.104.13.64', 58142) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:06 PM  INFO: ('10.104.13.64', 58142) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:07 PM  INFO: ('10.104.6.251', 34348) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:08 PM  INFO: ('10.104.13.64', 58142) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:09 PM  INFO: ('10.104.13.64', 58142) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:17:10 PM  INFO: ('10.104.2.212', 39660) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:32:10 PM  INFO: ('10.104.6.251', 41164) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:32:11 PM  INFO: ('10.104.2.212', 43672) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:32:13 PM  INFO: ('10.104.2.212', 43672) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:32:15 PM  INFO: ('10.104.6.251', 41164) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:40:33 PM  INFO: ('10.104.6.251', 44724) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:40:34 PM  INFO: ('10.104.2.212', 45956) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:40:35 PM  INFO: ('10.104.6.251', 44724) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:40:36 PM  INFO: ('10.104.2.212', 45956) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:40:38 PM  INFO: ('10.104.13.64', 45666) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:48:21 PM  INFO: ('10.104.13.64', 50930) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:29 PM  INFO: ('10.104.6.251', 51514) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:31 PM  INFO: ('10.104.6.251', 51514) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:33 PM  INFO: ('10.104.6.251', 51514) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:34 PM  INFO: ('10.104.13.64', 56448) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:35 PM  JSON is: {'textField': '“In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/DonnaHowardTX/status/1147927737979559936'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/liveoakgrove/status/1147928698827489281'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/liveoakgrove/status/1147928772265611265'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/jasonatchley/status/1147929403957096448'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': '@statebaroftexas @JohnCornyn @thehba @theaustinbar @DallasBarAssoc @DallasBizNews @TexYoungLawyers @ExpressNews @startelegram @statesman @texasdemocrats @DBrandewie The sins of John Cornyn and the other GOP nazis. https://t.co/IO9H2DTnJ1 #txlege', 'tweetLink': 'http://twitter.com/DaisyTom5/status/1147930584246702080'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': '@statebaroftexas @JohnCornyn @thehba @theaustinbar @DallasBarAssoc @DallasBizNews @TexYoungLawyers @ExpressNews @startelegram @statesman @texasdemocrats @DBrandewie https://t.co/Wg8U5SnHDP  #txlege @SecretaryAcosta @SeemaCMS', 'tweetLink': 'http://twitter.com/DaisyTom5/status/1147930982223208448'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/David35512293/status/1147931805091323910'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': '@GregAbbott_TX @DanPatrick @tedcruz @replouiegohmert @RepDanCrenshaw @BetsyDeVosED @JackPosobiec #txlege #Ccot #PJNET #MustFixNow https://t.co/GfY2dAMtCD', 'tweetLink': 'http://twitter.com/LizEady1/status/1147932057475190786'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'Today we honor the memories of the brave men and women of law enforcement who have died in the line of duty. Please take a moment to remember these fallen heroes and to pray for their families and communities. #Txlege #RGV https://t.co/PcHNYjuueO', 'tweetLink': 'http://twitter.com/TerryCanales40/status/1147932201776029696'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': "RT @james4texas: A 'dump-and-run' e-scooter culture creates frightening hazards for the disabled https://t.co/J83Jhr5Vgh via @expressnews #txlege", 'tweetLink': 'http://twitter.com/minon38750082/status/1147932321657606145'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @TomOliverson: Many brave men &amp; women have made the ultimate sacrifice for the safety of our communities. Please join me in honoring all fallen law enforcement officers today. #BacktheBlue #txlege https://t.co/2ZhaLkadIL', 'tweetLink': 'http://twitter.com/MarcALevin/status/1147935059598381056'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @RepStanLambert: Remembering those law enforcement professionals who gave their lives to protect us. #HD71 will not forget! Honor to the officers and their families on Fallen Law Enforcement Officer Day.  #BackTheBlue  #txlege #BigCountry https://t.co/AJN8lvEMXM', 'tweetLink': 'http://twitter.com/MarcALevin/status/1147935087998095360'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/wesrap/status/1147935465133264898'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'When did any #Texas politician of any political party state that property taxes were "fixed"? #SB2/#HB3 were a starting point, not the end goal. There is a world of reform yet to do. #txlege #txed #tcot #SB2 #HB3 @EdEmmett @TPPF https://t.co/8i6bvvWUJW', 'tweetLink': 'http://twitter.com/JamesQuinteroTX/status/1147936155465330696'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/86thLegislature/status/1147936551210508291'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/bossymama57/status/1147937198668505089'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/JoeHouseholder/status/1147937936173916160'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/RichardJankovsk/status/1147937968612618241'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/ScheleenTX/status/1147938232786661376'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @Steph_Rubin: “While the funding HB 3 provides for full-day pre-K is a step in the right direction, there is much more work to be done.” Great oped by \u2066@NelsonBaray\u2069 on the need to ensure more TX kids benefit from high quality #prek. #txlege #txed  https://t.co/9kKuK38bOq', 'tweetLink': 'http://twitter.com/putkids1st/status/1147938723553849344'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/TDCAA/status/1147940597086543873'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'Joined North San Antonio Government Affairs Committee to provide a brief recap of 86th #txlege Session &amp; how we can continue to work together to help the constituents of SD 26. @KevinWolffTX provided an update on transportation development within Bexar County. #Menendez4TX https://t.co/Q9zoa6k3zF', 'tweetLink': 'http://twitter.com/Menendez4Texas/status/1147940599351455746'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @pastors4txkids: "God’s vision for education is a beloved community of teachers and students, not a testing factory.  We don’t fund our schools because they hit certain test scores. We fund our schools because it’s a Gospel mandate &amp; a moral imperative." #txed #txlege #HB3 https://t.co/KOoI4kkMmY', 'tweetLink': 'http://twitter.com/lura_ks1972/status/1147940800489299968'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:35 PM  JSON is: {'textField': 'RT @evanasmith: Does not say outright whether he opposes citizenship q but — seems like it? In any case, another break with @realDonaldTrump #partyofone #tx2020 #txlege https://t.co/LxWYBBZ2iq', 'tweetLink': 'http://twitter.com/okhobieman2002/status/1147941579321204736'}
+Jul 7 02:56:35 PM  PREDICTION ^^^ is: False
+Jul 7 02:56:36 PM  INFO: ('10.104.6.251', 51514) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 02:56:37 PM  INFO: ('10.104.2.212', 50564) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:04:08 PM  INFO: ('10.104.2.212', 52622) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:04:10 PM  INFO: ('10.104.13.64', 33322) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:04:11 PM  INFO: ('10.104.2.212', 52622) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:12:33 PM  INFO: ('10.104.2.212', 54930) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:12:35 PM  INFO: ('10.104.2.212', 54930) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:12:37 PM  INFO: ('10.104.6.251', 58138) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:12:38 PM  INFO: ('10.104.2.212', 54930) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:12:39 PM  INFO: ('10.104.2.212', 54930) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:20:44 PM  INFO: ('10.104.2.212', 57206) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:20:46 PM  INFO: ('10.104.6.251', 33376) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:20:48 PM  INFO: ('10.104.6.251', 33376) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:20:48 PM  INFO: ('10.104.13.64', 44624) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:28:05 PM  INFO: ('10.104.6.251', 36458) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:28:07 PM  INFO: ('10.104.2.212', 59252) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:28:08 PM  INFO: ('10.104.13.64', 49612) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:36:05 PM  INFO: ('10.104.6.251', 39848) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:36:07 PM  INFO: ('10.104.2.212', 33132) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:36:08 PM  INFO: ('10.104.13.64', 55340) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:44:06 PM  INFO: ('10.104.2.212', 35454) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 03:52:33 PM  INFO: ('10.104.2.212', 37682) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:01:23 PM  INFO: ('10.104.13.64', 44660) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:01:24 PM  INFO: ('10.104.6.251', 50650) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:08:24 PM  INFO: ('10.104.13.64', 49188) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/TxDan_Gonzalez/status/1147941775048359936'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/cd_hooks/status/1147941983056551944'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @RepWalle: Give the @USWNT their due! Congrats ladies. #USWMT #txlege https://t.co/gODv8ql9Cw', 'tweetLink': 'http://twitter.com/egonza24/status/1147943674430599168'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @amy_bresnen: This is a first tent sighting on the trail by the railroad tracks on top of Lamar. Austinites, please take pics of tents &amp; their location and use the #austinhomeless so we can better understand the problem &amp; the new policy. \u2066@austintexasgov\u2069 \u2066@GregCasar\u2069 #txlege https://t.co/rwXjQgTWwx', 'tweetLink': 'http://twitter.com/quirkysoapbox/status/1147944207761514498'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/AllenAC009/status/1147944279811219457'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/BaughLaw2/status/1147945078150897664'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': '"Democrats\xa0also will have to defend the southeastern Denton County district shockingly won by small business owner Michelle Beckley over incumbent Ron Simmons. Beckley said she\'ll be ready." #txlege\n\nhttps://t.co/xgjLJ1zb1E', 'tweetLink': 'http://twitter.com/ForHD65/status/1147945129149440000'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @RepMaryGonzalez: #txlege Wrapup #25: In TX, it is legal to attempt to change the sexual orientation or gender identity/expression of a child. Conversion therapy is inhumane, and I'm proud to be a joint author of Rep. @CeliaIsrael's HB 517 to ban this practice. #140in40 https://t.co/hOeDJin0Zd", 'tweetLink': 'http://twitter.com/AllenAC009/status/1147945628842057729'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/SteffiLeeTV/status/1147945812342837249'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @RepWalle: Give the @USWNT their due! Congrats ladies. #USWMT #txlege https://t.co/gODv8ql9Cw', 'tweetLink': 'http://twitter.com/AllenAC009/status/1147946360940978181'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @TDCAA: Those glass office buildings look like Dallas, not Austin. Can we pick a Capitol complex theme and stick with it? Pink granite works fine, stop overthinking it people. #txlege https://t.co/2gRUxij1nF', 'tweetLink': 'http://twitter.com/haysGOP225/status/1147947324880150533'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @TerryCanales40: Today we honor the memories of the brave men and women of law enforcement who have died in the line of duty. Please take a moment to remember these fallen heroes and to pray for their families and communities. #Txlege #RGV https://t.co/PcHNYjuueO', 'tweetLink': 'http://twitter.com/Escal84/status/1147947416324366336'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: When did any #Texas politician of any political party state that property taxes were "fixed"? #SB2/#HB3 were a starting point, not the end goal. There is a world of reform yet to do. #txlege #txed #tcot #SB2 #HB3 @EdEmmett @TPPF https://t.co/8i6bvvWUJW', 'tweetLink': 'http://twitter.com/haysGOP225/status/1147947627956322306'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @DirectActionTX: Non-citizens votes = real meddling https://t.co/IVrgIiC4kU #txlege', 'tweetLink': 'http://twitter.com/PennyStory1/status/1147947939219812352'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @ForHD65: "Democrats\xa0also will have to defend the southeastern Denton County district shockingly won by small business owner Michelle Beckley over incumbent Ron Simmons. Beckley said she\'ll be ready." #txlege\n\nhttps://t.co/xgjLJ1zb1E', 'tweetLink': 'http://twitter.com/EthanOMcBride/status/1147948605011124224'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/Quest2017/status/1147949262820519937'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/jkfloyd319/status/1147950282011230210'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/ScheleenTX/status/1147951780996767744'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/jkfloyd319/status/1147951844779593729'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @EmpowerTexans: From his hometown to the state capitol, one Baytown resident demonstrates the payoff of perseverance and the power of the grassroots: https://t.co/a6P0vHhSiP #txlege', 'tweetLink': 'http://twitter.com/RedTexasyall/status/1147952323492290563'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/frankthorne11/status/1147953208633036800'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/JamesQuinteroTX/status/1147955969604902912'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/bulletzandboots/status/1147958013145124864'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/shwaldrich/status/1147958656312455169'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:20 PM  JSON is: {'textField': "RT @RepMaryGonzalez: #txlege Wrapup #25: In TX, it is legal to attempt to change the sexual orientation or gender identity/expression of a child. Conversion therapy is inhumane, and I'm proud to be a joint author of Rep. @CeliaIsrael's HB 517 to ban this practice. #140in40 https://t.co/hOeDJin0Zd", 'tweetLink': 'http://twitter.com/erictwitting/status/1147960332469571589'}
+Jul 7 04:24:20 PM  PREDICTION ^^^ is: False
+Jul 7 04:24:23 PM  INFO: ('10.104.7.128', 55490) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:40:19 PM  INFO: ('10.104.7.128', 60510) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:40:22 PM  INFO: ('10.104.7.128', 60510) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:40:24 PM  INFO: ('10.104.13.98', 44330) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:40:26 PM  INFO: ('10.104.6.24', 59684) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:56:58 PM  INFO: ('10.104.7.128', 37214) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 04:57:00 PM  INFO: ('10.104.7.128', 37214) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:04:13 PM  INFO: ('10.104.7.128', 39448) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:04:14 PM  INFO: ('10.104.6.24', 41172) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:04:17 PM  INFO: ('10.104.7.128', 39448) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:04:19 PM  INFO: ('10.104.7.128', 39448) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:12:41 PM  INFO: ('10.104.7.128', 42084) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:12:42 PM  INFO: ('10.104.7.128', 42084) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:12:44 PM  INFO: ('10.104.6.24', 44842) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:12:45 PM  INFO: ('10.104.13.98', 37358) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:20:23 PM  INFO: ('10.104.7.128', 44482) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:28:18 PM  INFO: ('10.104.13.98', 48754) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:44:23 PM  INFO: ('10.104.7.128', 52268) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 05:52:18 PM  INFO: ('10.104.6.24', 35540) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:01:21 PM  INFO: ('10.104.13.98', 43148) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:01:23 PM  INFO: ('10.104.6.24', 39316) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:08:43 PM  INFO: ('10.104.7.128', 60372) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:08:44 PM  JSON is: {'textField': '.@TPPF\'s Dr. Brent Bennett: "...100 percent renewable is not doable..." Also explains why the costly, misguided plans underway in @georgetowntx &amp; @COSAGOV will hurt ratepayers.\n\n#txlege #tcot @Life_Powered_ @ISAACforTexas @Ron_Nirenberg @NPRinskeep #Austin https://t.co/EoTkSSEuzI', 'tweetLink': 'http://twitter.com/JamesQuinteroTX/status/1147962865887920128'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: When did any #Texas politician of any political party state that property taxes were "fixed"? #SB2/#HB3 were a starting point, not the end goal. There is a world of reform yet to do. #txlege #txed #tcot #SB2 #HB3 @EdEmmett @TPPF https://t.co/8i6bvvWUJW', 'tweetLink': 'http://twitter.com/houston_cf/status/1147967545166761984'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @DonnaHowardTX: “In the name of property tax reform #txlege shackled local govts to a capped revenue source that is fundamentally unfair. Taxpayers were told legislation was good for them. Only a matter of time before voters realize they have been sold snake oil.” https://t.co/5iI2956tg7', 'tweetLink': 'http://twitter.com/briefranco/status/1147967775400484864'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @TerryCanales40: Today we honor the memories of the brave men and women of law enforcement who have died in the line of duty. Please take a moment to remember these fallen heroes and to pray for their families and communities. #Txlege #RGV https://t.co/PcHNYjuueO', 'tweetLink': 'http://twitter.com/romeovalladares/status/1147967787027054592'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: When did any #Texas politician of any political party state that property taxes were "fixed"? #SB2/#HB3 were a starting point, not the end goal. There is a world of reform yet to do. #txlege #txed #tcot #SB2 #HB3 @EdEmmett @TPPF https://t.co/8i6bvvWUJW', 'tweetLink': 'http://twitter.com/PubliusTX/status/1147967883630301185'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'On this day, we remember with gratitude our law enforcement and the ultimate sacrifice many have made for their communities. We stand with your families in remembering and honoring you. #txlege #HD54 https://t.co/QmYCU2Hl72', 'tweetLink': 'http://twitter.com/BradBuckleyDVM/status/1147971487653146624'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': "RT @Yolitzma_: TX Congressional candidate, Rosey Ramos, now back home w/ her family. Bruises courtesy of Dimmit Co. Sheriff (see thread for video) I'm watching, will any reps respond!? She could be any of us! #txlege @JoaquinCastrotx @WillHurd @RepEscobar @NBCLatino @maryaliceparks @SuzGamboa https://t.co/hhIgtAIaY8", 'tweetLink': 'http://twitter.com/Yolitzma_/status/1147972511314907136'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/EugeneAustin/status/1147972733508173824'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': "Catch me on the radio TODAY at 5:45 PM. Tune in to Cami Dean's One Nation Under God radio show on 660 AM to listen! @660KSKY #txlege https://t.co/9E5w50idwr", 'tweetLink': 'http://twitter.com/RonforTexas/status/1147973564596989954'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: When did any #Texas politician of any political party state that property taxes were "fixed"? #SB2/#HB3 were a starting point, not the end goal. There is a world of reform yet to do. #txlege #txed #tcot #SB2 #HB3 @EdEmmett @TPPF https://t.co/8i6bvvWUJW', 'tweetLink': 'http://twitter.com/rkecseg84/status/1147973824698339328'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': "RT @Yolitzma_: TX Congressional candidate, Rosey Ramos, now back home w/ her family. Bruises courtesy of Dimmit Co. Sheriff (see thread for video) I'm watching, will any reps respond!? She could be any of us! #txlege @JoaquinCastrotx @WillHurd @RepEscobar @NBCLatino @maryaliceparks @SuzGamboa https://t.co/hhIgtAIaY8", 'tweetLink': 'http://twitter.com/Yolitzma_/status/1147973828368379906'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'Thank you for your support of Law Enforcement! #BackTheBlue #Txlege https://t.co/A1vS9UJYoa', 'tweetLink': 'http://twitter.com/RepMikeLang/status/1147974656353284098'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @GovAbbott: BOOM: Texas hits a new historic low unemployment rate of 3.5 percent in May and leads the nation for jobs added over the last 12 months. #TexasWorks #txlege https://t.co/0qhzDXMgFF', 'tweetLink': 'http://twitter.com/C_Coolidge/status/1147974992191209479'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: True
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @RepMikeLang: Thank you for your support of Law Enforcement! #BackTheBlue #Txlege https://t.co/A1vS9UJYoa', 'tweetLink': 'http://twitter.com/texashoney612/status/1147975181375299584'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'We need the Wall now! Thank you, @realDonaldTrump. @TheDemocrats are going to regret playing games with Texans, let alone the rest of the Country. #Txlege https://t.co/pkUD4sI9bk', 'tweetLink': 'http://twitter.com/RepMikeLang/status/1147976662618910723'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @TomOliverson: Many brave men &amp; women have made the ultimate sacrifice for the safety of our communities. Please join me in honoring all fallen law enforcement officers today. #BacktheBlue #txlege https://t.co/2ZhaLkadIL', 'tweetLink': 'http://twitter.com/AnneCassity1/status/1147977718383947776'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': "RT @RepMaryGonzalez: #txlege Wrapup #25: In TX, it is legal to attempt to change the sexual orientation or gender identity/expression of a child. Conversion therapy is inhumane, and I'm proud to be a joint author of Rep. @CeliaIsrael's HB 517 to ban this practice. #140in40 https://t.co/hOeDJin0Zd", 'tweetLink': 'http://twitter.com/louweaver/status/1147979214051774464'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @RepMikeLang: Thank you for your support of Law Enforcement! #BackTheBlue #Txlege https://t.co/A1vS9UJYoa', 'tweetLink': 'http://twitter.com/leachfortexas/status/1147983704993796096'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'Today we honor the service and sacrifice of our fallen brothers and sisters. We will always be indebted to those who have died in the line of duty. God be with with the families of our fallen Heroes. #txlege', 'tweetLink': 'http://twitter.com/poncho_nevarez/status/1147985372686757888'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: .@TPPF\'s Dr. Brent Bennett: "...100 percent renewable is not doable..." Also explains why the costly, misguided plans underway in @georgetowntx &amp; @COSAGOV will hurt ratepayers.\n\n#txlege #tcot @Life_Powered_ @ISAACforTexas @Ron_Nirenberg @NPRinskeep #Austin https://t.co/EoTkSSEuzI', 'tweetLink': 'http://twitter.com/ISAACforTexas/status/1147987384170139648'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: .@TPPF\'s Dr. Brent Bennett: "...100 percent renewable is not doable..." Also explains why the costly, misguided plans underway in @georgetowntx &amp; @COSAGOV will hurt ratepayers.\n\n#txlege #tcot @Life_Powered_ @ISAACforTexas @Ron_Nirenberg @NPRinskeep #Austin https://t.co/EoTkSSEuzI', 'tweetLink': 'http://twitter.com/robhenneke/status/1147988617333223429'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:44 PM  JSON is: {'textField': '@MarcWilliamsTX @TerryCanales40 @BrooksLandgraf @TxDOTCommission @joanhuffman @DonnaCampbellTX @SenJaneNelson @DrBuckinghamTX @beverlypowelltx @txlegequeens @AngelaPaxtonTX @CarolforTexas @DiegoBernalTX @lina4texas @BenLemanTX @RepMattKrause @KHancock4TX @DrSchwertner @TxChuy @JoseforTexas @SenRoyceWest @RepDennisBonnen 17/\nJUN2019\nIn Remembrance...\n\n🌹🌹R.I.P. 🌹🌹\n#LuisFernandoMartinezVertiz 25 Austin\n#JamesMoney 61 Bridgeport\n#AhmedAliMohamed 44 McAllen (pedestrian)\n#JuanRangel 43 Laredo\n#SteveMartinez 60 Baytown (fm San Antonio, drowned-in-vehicle)\n#ChastityJohnson 22 Fort Worth\n#TxLege https://t.co/YHIUcRpEGQ', 'tweetLink': 'http://twitter.com/FeauxTxDOT/status/1147989500787716096'}
+Jul 7 06:08:44 PM  PREDICTION ^^^ is: False
+Jul 7 06:08:46 PM  INFO: ('10.104.6.24', 42420) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:16:53 PM  INFO: ('10.104.6.24', 45884) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:16:55 PM  INFO: ('10.104.6.24', 45884) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:16:56 PM  INFO: ('10.104.13.98', 53466) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:16:58 PM  INFO: ('10.104.7.128', 35400) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:17:00 PM  INFO: ('10.104.13.98', 53466) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:24:07 PM  INFO: ('10.104.13.98', 57884) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:24:08 PM  INFO: ('10.104.13.98', 57884) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:24:10 PM  INFO: ('10.104.7.128', 37916) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:32:22 PM  INFO: ('10.104.13.98', 35092) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:32:24 PM  INFO: ('10.104.6.24', 52260) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:40:33 PM  INFO: ('10.104.13.98', 40284) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:48:45 PM  INFO: ('10.104.6.24', 58398) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:48:46 PM  INFO: ('10.104.7.128', 44312) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:56:32 PM  INFO: ('10.104.6.24', 33012) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 06:56:34 PM  INFO: ('10.104.7.128', 46418) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:04:20 PM  INFO: ('10.104.6.24', 36192) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:04:25 PM  INFO: ('10.104.7.128', 48538) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:12:50 PM  INFO: ('10.104.7.128', 50584) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:12:51 PM  INFO: ('10.104.13.98', 60654) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:12:52 PM  INFO: ('10.104.13.98', 60654) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:12:54 PM  INFO: ('10.104.13.98', 60654) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:12:56 PM  INFO: ('10.104.7.128', 50584) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:31 PM  INFO: ('10.104.7.128', 54178) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:38 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:41 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:42 PM  JSON is: {'textField': 'Congratulations to Bethlehem Baptist Church @bbcmansfield on the dedication of Pioneer Place, affordable senior housing. This amazing church, under the leadership of Pastor Michael Evans, does so much for our community. Congrats also on 149 years of ministry! #txlege https://t.co/mnRJMJR4Hy', 'tweetLink': 'http://twitter.com/ChrisGTurner/status/1147990599204769792'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @RepWalle: Give the @USWNT their due! Congrats ladies. #USWMT #txlege https://t.co/gODv8ql9Cw', 'tweetLink': 'http://twitter.com/saurahsaurus/status/1147992176535777280'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/Garciaparasoco/status/1147992211390435328'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/randypittenger/status/1147992229438509057'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @KellyRasti: 🚨If you are not already following @RootEdSA, please do! RootEd was created by a group of parents who saw the need for neighborhood schools to tell their stories, even without big 💵 for marketing. #StrongPublicSchools #PublicEducation #TxEd #txlege #Education #SanAntonio #Texas https://t.co/AYJTz6W4eP', 'tweetLink': 'http://twitter.com/YvetteBenavid10/status/1147992247855722497'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': '@sola5reformed @Reagantrose @D_B_Harrison Yep, our sellout GOP Texas legislature failed to deliver on any real property tax reforms or pro-gun legislation. But we do have deregulated lemonade stands. #txlege', 'tweetLink': 'http://twitter.com/dvargha/status/1147992694335123461'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'The Texas Water Journal is free for our subscribers, authors, universities &amp; everyone else. Subscribe now to be the first to receive new articles. https://t.co/iO4EmmkQZS #Texas #water #txwater #openaccess #txlege #EnergyTransition #waterconservation https://t.co/uQ8zHlgvkB', 'tweetLink': 'http://twitter.com/TxWaterJournal/status/1147993220250423296'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @TxWaterJournal: The Texas Water Journal is free for our subscribers, authors, universities &amp; everyone else. Subscribe now to be the first to receive new articles. https://t.co/iO4EmmkQZS #Texas #water #txwater #openaccess #txlege #EnergyTransition #waterconservation https://t.co/uQ8zHlgvkB', 'tweetLink': 'http://twitter.com/solokomwater/status/1147993756190330882'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @ChrisGTurner: Congratulations to Bethlehem Baptist Church @bbcmansfield on the dedication of Pioneer Place, affordable senior housing. This amazing church, under the leadership of Pastor Michael Evans, does so much for our community. Congrats also on 149 years of ministry! #txlege https://t.co/mnRJMJR4Hy', 'tweetLink': 'http://twitter.com/johnsonwillisj/status/1147994345884323845'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @GregAbbott_TX: Texas energy companies continue to advance new technologies that reduce carbon. \n\nExxon Mobil invests in Global Thermostat carbon capture technology. \n\n#txlege  https://t.co/540jAr2Caw', 'tweetLink': 'http://twitter.com/OptimizedZone/status/1147994662378098688'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @JamesQuinteroTX: .@TPPF\'s Dr. Brent Bennett: "...100 percent renewable is not doable..." Also explains why the costly, misguided plans underway in @georgetowntx &amp; @COSAGOV will hurt ratepayers.\n\n#txlege #tcot @Life_Powered_ @ISAACforTexas @Ron_Nirenberg @NPRinskeep #Austin https://t.co/EoTkSSEuzI', 'tweetLink': 'http://twitter.com/JaredLPatterson/status/1147995249656160256'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @evanasmith: This is a great collaboration: @nytimes @elpasotimes deep dive on the migrant detention center in Clint https://t.co/KU0H7tuN5h #txlege', 'tweetLink': 'http://twitter.com/LinaSCC/status/1147997004875862018'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @TomOliverson: Many brave men &amp; women have made the ultimate sacrifice for the safety of our communities. Please join me in honoring all fallen law enforcement officers today. #BacktheBlue #txlege https://t.co/2ZhaLkadIL', 'tweetLink': 'http://twitter.com/pearl9031/status/1147999089428246530'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': "RT @ProgressTX: Don't forget: Property taxes have soared because these same Republicans turned their backs on school funding. #txlege \n\nhttps://t.co/ijufBiYkvR", 'tweetLink': 'http://twitter.com/TripleThreatHR/status/1148000465193447425'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': '@RepDanCrenshaw https://t.co/toLJj81aST  #txlege', 'tweetLink': 'http://twitter.com/DaisyTom5/status/1148001456894517248'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @SenatorNichols: Join me in honoring all of our brave law enforcement officers &amp; first responders who sacrifice so much to protect our communities. TX stands with our law enforcement on this #FallenLawEnforcementOfficerDay &amp; everyday. #BacktheBlue #txlege https://t.co/kG0lDuHrxv', 'tweetLink': 'http://twitter.com/pearl9031/status/1148002658638319616'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @scottbraddock: Republican former Harris County Judge @EdEmmett: Texas politicians said they fixed property taxes. Don’t believe it https://t.co/X6pKVOTLxn #TxLege', 'tweetLink': 'http://twitter.com/blkeyedp/status/1148003481271316482'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'The uneven Texas miracle - Texas has seen high rates of job growth but almost all of it has been concentrated in its superstar megacities. #txlege  https://t.co/fiyO7LHzPx', 'tweetLink': 'http://twitter.com/mcpli/status/1148004180075921408'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: True
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @mcpli: The uneven Texas miracle - Texas has seen high rates of job growth but almost all of it has been concentrated in its superstar megacities. #txlege  https://t.co/fiyO7LHzPx', 'tweetLink': 'http://twitter.com/Tryagain5555/status/1148005471887998976'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: True
+Jul 7 07:28:42 PM  JSON is: {'textField': 'Great win entering @AllStarGame. Following game from Orlando @NBCSports Grill @UniversalORL. #Astros #txlege https://t.co/pX0PBwjor0', 'tweetLink': 'http://twitter.com/RepWalle/status/1148005823983083520'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'Is it legal to buy fireworks where you live? The answer could be complicated. https://t.co/5cSMKgfUam via @voxdotcom #txlege', 'tweetLink': 'http://twitter.com/james4texas/status/1148006119006232577'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @wesrap: Texas Governor’s mansion to be lit in blue tonight in honor of fallen law enforcement officers, per @GovAbbott. #txlege https://t.co/U6uL3ZWoW5', 'tweetLink': 'http://twitter.com/S_TSTANFORD08/status/1148006387064233994'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @mcpli: The uneven Texas miracle - Texas has seen high rates of job growth but almost all of it has been concentrated in its superstar megacities. #txlege  https://t.co/fiyO7LHzPx', 'tweetLink': 'http://twitter.com/kateeclement/status/1148006576663519232'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: True
+Jul 7 07:28:42 PM  JSON is: {'textField': '"The new law changed the definition of marijuana, and prosecutors and crime labs say they don\'t have the resources to test if a substance is legal hemp or marijuana." #txlege\n\nhttps://t.co/ZtjmqemVLV', 'tweetLink': 'http://twitter.com/ForHD65/status/1148007787747614720'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @GregAbbott_TX: Congratulations to teachers in Midland.\n\nMISD board approves raises for all teachers.\n\nYou will guide our students to a brighter future.\n\n#txlege\nhttps://t.co/RrpmaU7Pm2 via @mwtnews', 'tweetLink': 'http://twitter.com/RealDealCed/status/1148007947848601602'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: False
+Jul 7 07:28:42 PM  JSON is: {'textField': 'RT @mcpli: The uneven Texas miracle - Texas has seen high rates of job growth but almost all of it has been concentrated in its superstar megacities. #txlege  https://t.co/fiyO7LHzPx', 'tweetLink': 'http://twitter.com/v2aggie2/status/1148008210990882817'}
+Jul 7 07:28:42 PM  PREDICTION ^^^ is: True
+Jul 7 07:28:45 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:45 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:47 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:48 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:49 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:28:51 PM  INFO: ('10.104.6.24', 45194) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:44:05 PM  INFO: ('10.104.7.128', 57674) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:52:25 PM  INFO: ('10.104.7.128', 59484) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 07:52:27 PM  INFO: ('10.104.6.24', 53872) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:08:21 PM  INFO: ('10.104.13.98', 38038) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:08:23 PM  INFO: ('10.104.7.128', 35356) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:08:24 PM  INFO: ('10.104.7.128', 35356) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:08:26 PM  INFO: ('10.104.13.98', 38038) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:16:20 PM  INFO: ('10.104.6.24', 34892) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:24:27 PM  INFO: ('10.104.6.24', 37788) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:48:12 PM  INFO: ('10.104.7.128', 43668) - "POST /tweetcheck HTTP/1.1" 200
+Jul 7 08:56:10 PM  INFO: ('10.104.13.98', 37854) - "POST /tweetcheck HTTP/1.1" 200

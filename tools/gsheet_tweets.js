@@ -4,6 +4,10 @@
 // where <gsheet url> is the shared url described in the Tabletop docs
 // here: https://github.com/jsoma/tabletop#1-publishing-your-google-sheet
 
+//// note! The resulting file needs to be made csv-compliant
+// - replace " with ""
+// - wrap every line with "line"
+// - add 'tweet_text' at top as title
 
 const Tabletop = require('tabletop')
 const fs = require('fs') 
