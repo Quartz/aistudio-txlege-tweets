@@ -4,10 +4,11 @@
 // where <gsheet url> is the shared url described in the Tabletop docs
 // here: https://github.com/jsoma/tabletop#1-publishing-your-google-sheet
 
-//// note! The resulting file needs to be made csv-compliant
-// - replace " with ""
-// - wrap every line with "line"
-// - add 'tweet_text' at top as title
+//// note! The resulting file -- tweet_corpus.txt -- needs to be made csv-compliant.
+// here's how I did it using a text editor:
+// - replaced " with ""
+// - wrapped every line with double-quotes by doing a regex search for ^(.*)$ and replacing that with "$1"
+// - added 'tweet_text' alone at line 1 as the single-column title
 
 const Tabletop = require('tabletop')
 const fs = require('fs') 
